@@ -1,1 +1,24 @@
 /* Write your CSS here! */
+p {
+    background-color: aliceblue;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+article {
+    background-color: lavender;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+.top {
+    font: medium;
+}
+
+#peak {
+    color:cornflowerblue
+}
